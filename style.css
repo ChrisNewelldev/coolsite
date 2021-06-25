@@ -1,0 +1,50 @@
+.d-flex {
+  display: flex;
+}
+
+.justify-content-between {
+  justify-content: space-between;
+}
+
+h1 {
+  color: white;
+  background-color: darkblue;
+  text-align: center;
+  padding-right: 1em;
+}
+
+h3 {
+  text-align: center;
+}
+main {
+  width: 100%
+}
+div {
+  padding: 1em
+}
+hr {
+  height: 10px;
+  width: 100%;
+  color: lightblue;
+  background-color: lightblue;
+
+}
+aside {
+  width: 50%
+  
+}
+
+footer {
+  color: darkblue;
+  background-color: darkblue;
+  height: .75in;
+  width: 100%;
+}
+
+.d-flex{
+  display: flex;
+}
+
+.aside-dim{
+  width: fit-content;
+}
